@@ -1,0 +1,1 @@
+# Empty - makes "bot" a Python package

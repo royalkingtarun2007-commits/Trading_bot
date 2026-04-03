@@ -1,0 +1,7 @@
+2026-04-03 14:54:30,204 [INFO] bot.client: Binance Futures Testnet client initialized (testnet=True)
+2026-04-03 14:54:30,206 [INFO] bot.client: Placing BUY MARKET order | 0.002 BTCUSDT MARKET
+2026-04-03 14:54:31,380 [INFO] bot.client: Order placed successfully | orderId=13020070499
+2026-04-03 14:54:42,059 [ERROR] __main__: Validation failed: Price is required and must be > 0 for LIMIT orders
+2026-04-03 14:55:02,455 [INFO] bot.client: Binance Futures Testnet client initialized (testnet=True)
+2026-04-03 14:55:02,456 [INFO] bot.client: Placing SELL LIMIT order | 0.002 BTCUSDT @ 66850.0
+2026-04-03 14:55:03,638 [INFO] bot.client: Order placed successfully | orderId=13020070820
